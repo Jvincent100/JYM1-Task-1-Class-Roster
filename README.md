@@ -1,3 +1,32 @@
+<h1>Competencies</h1>
+4048.2.1 : Introduction to Programming
+
+The graduate applies fundamental programming concepts in a specific programming environment.
+
+4048.2.2 : Variables and Data Types
+
+The graduate prepares code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
+
+4048.2.3 : Control Structures
+
+The graduate writes code that implements decision and loop constructs to control the flow of a program.
+
+4048.2.4 : Arrays
+
+The graduate creates arrays in order to solve complex problems.
+
+4048.2.5 : Pointers and Memory
+
+The graduate applies pointers to solve complex problems.
+
+4048.2.6 : Functions
+
+The graduate writes code that creates and manipulates functions and files.
+
+4048.2.7 : Object-Oriented Paradigm
+
+The graduate applies object-oriented programming concepts in order to create a basic application.
+
 <h1>Introduction</h1>
 Throughout your career in software development, you will develop and maintain new and existing applications. You will be expected to fix issues as well as add new enhancements or migrate existing applications to new platforms or different programming languages. As a software developer, your role will be to create a design of an application based on given business requirements. After the design is completed, you must implement the application based on the design document and provided requirements.
 
@@ -13,7 +42,7 @@ This project will require an integrated development environment (IDE). You must 
 
 Your submission should include a zip file with all the necessary code files to compile, support, and run your application. The zip file submission must also keep the project file and folder structure intact for the Visual Studio IDE or Mac Visual Studio Code IDE.
 
-Scenario
+<h1>Scenario</h1>
 You are hired as a contractor to help a university migrate an existing student system to a new platform using C++ language. Since the application already exists, its requirements exist as well, and they are outlined in the next section. You are responsible for implementing the part of the system based on these requirements. A list of data is provided as part of these requirements. This part of the system is responsible for reading and manipulating the provided data.
 
 
