@@ -1,3 +1,4 @@
+d287 Java Frameworks
 <h1>Competencies</h1>
 4048.2.1 : Introduction to Programming
 
