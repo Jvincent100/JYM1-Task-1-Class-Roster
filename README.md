@@ -1,4 +1,4 @@
-d287 Java Frameworks
+Scripting and Programming - Applications — C867
 <h1>Competencies</h1>
 4048.2.1 : Introduction to Programming
 
